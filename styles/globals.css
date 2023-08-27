@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: #190133;
+}
+
+.navBack{
+  background: #190133;
+}
